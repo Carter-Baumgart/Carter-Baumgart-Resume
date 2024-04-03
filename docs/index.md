@@ -6,8 +6,8 @@ title: Carter Baumgart's Resume
 Bachelor's Degree in Business Analytics
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="datascience@byui.edu">bau17006@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Business Analytics Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
