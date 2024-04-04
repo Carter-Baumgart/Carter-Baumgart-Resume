@@ -36,6 +36,9 @@ __Teacher's Assistant - Business Analytics__, BYUI
 __Service Missionary__, Arcadia, California
 
 
+__Language_Training__, Spanish
+
+
 
 <!-- ### Footer
 
